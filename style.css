@@ -1,0 +1,10 @@
+body{
+    font-family: 'Alata', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+}
+.name-highlight{
+    color: orange;
+}
