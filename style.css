@@ -1,5 +1,7 @@
 body{
     font-family: 'Alata', sans-serif;
+    margin: 0px;
+   
 }
 
 h1{
@@ -7,4 +9,32 @@ h1{
 }
 .name-highlight{
     color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+       background-image: url("images/top-banner.png");
+       background-repeat: no-repeat;
+
+}
+.section{
+    background-color: tomato;
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(45deg,lightsalmon tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
 }
