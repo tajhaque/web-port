@@ -7,6 +7,12 @@ body{
 h1{
     font-size: 30px;
 }
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
 .name-highlight{
     color: orange;
 }
@@ -16,19 +22,19 @@ h1{
     margin-left: 5%;
     padding-left: 2%;
 }
-
-.half-width img{
-    width: 100%;
-}
 .top-banner{
-       background-image: url("images/top-banner.png");
-       background-repeat: no-repeat;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
 
 }
 .section{
-    background-color: tomato;
-    height: 500px;
+     height: 500px;
+     padding-bottom: 150px;
 }
+.half-width img{
+    width: 100%;
+}
+
 .link-button{
     text-decoration: none;
     background-color: orange;
